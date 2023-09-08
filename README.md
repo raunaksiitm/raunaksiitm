@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there! I'm Raunak </h1>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
-<!--
-**raunaksiitm/raunaksiitm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💫 About Me:
+ <br>🌱Data enthusiast | Electrical Engineering graduate | Harnessing insights from data | Driven to make an impact <br>📚 Currently, I'm pursuing further education in Data Science to expand my skills and knowledge in this exciting field. I am passionate about exploring data, uncovering insights, and applying machine learning algorithms to solve real-world problems.<br>💡 I enjoy working on data-driven projects and tinkering with different technologies and tools.<br>🔭 I’m currently working on PostgreSQL, Python, C, Java , JavaScript, CSS<br>📫 How to reach me raunaks.contact@gmail.com<br>👨‍💻 Available at https://raunaksen-ee.github.io/portfolio_raunak/<br>📄 Know about my experiences https://sites.google.com/view/raunaksen-r/home<br>⚡ Data Science Fun Poem In the world of data science, where numbers hold the key, A funny little poem, let me share with glee.  Once upon a spreadsheet, in a land of algorithms, Data scientists worked, with their brains in rhythm.  They danced with data, through the day and night, Finding insights hidden, oh what a sight!  With Python and R, their trusty tools in hand, They wrangled datasets, like wizards so grand.  They crunched the numbers, oh so many rows, Searching for patterns, as the data flows.  But sometimes they stumbled upon quite a mess, Outliers and errors causing much distress.  They battled with bugs, in their coding fight, Chasing down issues, 'til the code was right.  And when models were built, they were put to test, Accuracy and precision, their ultimate quest.  They built predictions, with machine learning grace, Forecasting the future, at a rapid pace.  But amidst all the data and complex equations, They never forgot to have fun and celebrations.  They joked about p-values and poked at their code, Laughing at errors and the stories they sowed.  So here's to the data scientists, both wise and funny, Analyzing data, while making the world sunny.  With a touch of humor and a sprinkle of glee, They blend science and laughter, in perfect harmony.<br>📫 You can connect with me on LinkedIn [www.linkedin.com/in/raunak-sen-eeds] to stay updated on my latest endeavors.<br><br>Let's harness the power of data together and create meaningful insights!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raunak.sen.73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raunak-sen-eeds) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Raunak-Sen-7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21656589/raunak-sen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rsofficial_6) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunaksen-ee&show_icons=true&locale=en&layout=compact" alt="raunaksen-ee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunaksen-ee&theme=dark" alt="raunaksen-ee" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raunakseneeds) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
